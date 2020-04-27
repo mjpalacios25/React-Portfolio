@@ -8,6 +8,7 @@ import './App.css';
 
 function App() {
   return (
+    
     <div className="App">
       <Nav />
       <Router>
@@ -24,6 +25,7 @@ function App() {
         </Switch>
       </Router>
     </div>
+   
   );
 }
 
