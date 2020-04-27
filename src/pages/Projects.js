@@ -28,7 +28,7 @@ function Projects(){
                                </CardBody>
                                <CardBody>
                                     <a className="card-text ml-2" href={results.github} style={{color: "white"}} >  <i class="fab fa-github"></i> Github</a> 
-                                    <a className="card-text text-center ml-4" href={results.heroku} style={{color: "white"}}>  <i class="fas fa-desktop"></i> Website</a>
+                                    <a className="card-text text-center ml-4" href={results.site} style={{color: "white"}}>  <i class="fas fa-desktop"></i> Website</a>
                                </CardBody>
                            </CardContainer>
                        </Col>))}
