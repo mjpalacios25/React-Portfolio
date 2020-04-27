@@ -10,7 +10,7 @@ const Projects = [
         title: "Employee Directory",
         description: "Website that allows users to view, add, and update employee information",
         github: "https://github.com/mjpalacios25/Employee-Directory",
-        site: "https://safe-temple-96246.siteapp.com/",
+        site: "https://safe-temple-96246.herokuapp.com/",
         image: EmployeeDirPicture,
 
     },
@@ -18,14 +18,14 @@ const Projects = [
         title: "Health Outcomes Website",
         description: "Website that creates health profiles and assesses risk factors based on public use data from the Centers for Disease Control and Prevention",
         github: "https://github.com/Aglasener/CDC_Website",
-        site: "https://intense-fortress-61709.siteapp.com",
+        site: "https://intense-fortress-61709.herokuapp.com",
         image: HealthTracker,
     },
     {
         title: "Fitness Tracker",
         description: "This is a website that allows users to track their workouts, exercises, and reps saving information into a Mongo database.",
         github: "https://github.com/mjpalacios25/Fitness-Tracker",
-        site: "https://shrouded-stream-05616.siteapp.com/",
+        site: "https://shrouded-stream-05616.herokuapp.com/",
         image: FitnessTracker,
     },
     {
